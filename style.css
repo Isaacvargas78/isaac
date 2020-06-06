@@ -14,13 +14,13 @@ p, li {
 } 
 
 html { 
-  background-color:#000000; 
+  background-color:#B0C6B0; 
 }
 
 body { 
   width: 600px; 
   margin: 0 auto; 
-  background-color:#DC1919; 
+  background-color:#B0BFC6; 
   padding: 0 20px 20px 20px; 
   border: 8px solid black; 
 } 
